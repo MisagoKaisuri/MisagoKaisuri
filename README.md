@@ -1,4 +1,4 @@
--　Hi, I’m Misago Kaisuri
+-　Hi, I’m Misago Kaisuri  
 -　I’m currently learning VisualC# :smile:
 
 <!---
